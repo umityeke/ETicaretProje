@@ -1,0 +1,37 @@
+﻿@using OrnekProje.Entity
+@model IEnumerable<Product>
+<div id="carouselBlk">
+    <div id="myCarousel" class="carousel slide">
+        <div class="carousel-inner">
+            <div class="item active">
+                <div class="container">
+                    <a href="register.html"><img style="width:100%; height:480px; min-height:480px; min-width:585px" src="/Content/Images/in.jpg" alt="special offers" /></a>
+                    <div class="carousel-caption">
+                        
+                    </div>
+                </div>
+            </div>
+            @foreach (var item in Model)
+            {
+                
+                    <div class="item">
+                       
+                            <div class="container">
+                                
+                                <a class="span5" href="register.html"><img style="width:100%; height:480px; min-height:480px; min-width:1100px" src="~/Content/Images/@item.Image" alt="" /></a>
+                                
+                                  <div class="carousel-caption">
+                                   
+                                </div>
+                              </div>  
+                        </div>
+            }
+           
+           
+        </div>
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
+    </div>
+</div>
+
+

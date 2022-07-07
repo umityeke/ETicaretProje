@@ -1,0 +1,317 @@
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\ApplicationInsights.config
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\roslyn\csc.exe
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\roslyn\vbc.exe
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\roslyn\VBCSCompiler.exe
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\OrnekProje.dll.config
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\OrnekProje.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\OrnekProje.pdb
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\EntityFramework.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\EntityFramework.SqlServer.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.AI.Web.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.AI.WindowsServer.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.ApplicationInsights.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\System.Web.Helpers.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\System.Web.Mvc.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\System.Web.Razor.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\System.Web.Webpages.Deployment.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\System.Web.Webpages.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\System.Web.Webpages.Razor.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\EntityFramework.xml
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\EntityFramework.SqlServer.xml
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.AI.Web.xml
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.AI.WindowsServer.xml
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.ApplicationInsights.xml
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\System.Web.Razor.xml
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\System.Web.Webpages.xml
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\System.Web.Webpages.Deployment.xml
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\System.Web.Webpages.Razor.xml
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\System.Web.Helpers.xml
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\System.Web.Mvc.xml
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csprojResolveAssemblyReference.cache
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\obj\Debug\OrnekProje.dll
+c:\users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\obj\Debug\OrnekProje.pdb
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.Owin.dll
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.dll
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Newtonsoft.Json.dll
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Owin.dll
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.Owin.xml
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.xml
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dagdelen\documents\visual studio 2015\Projects\OrnekProje\OrnekProje\bin\Newtonsoft.Json.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\ApplicationInsights.config
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\roslyn\csc.exe
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\roslyn\vbc.exe
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\OrnekProje.dll.config
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\OrnekProje.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\OrnekProje.pdb
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\EntityFramework.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\EntityFramework.SqlServer.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.AI.Web.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.Owin.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Newtonsoft.Json.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Owin.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\System.Web.Helpers.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\System.Web.Mvc.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\System.Web.Razor.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\System.Web.Webpages.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\System.Web.Webpages.Razor.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\EntityFramework.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\EntityFramework.SqlServer.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.AI.Web.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.Owin.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\Newtonsoft.Json.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\System.Web.Razor.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\System.Web.Webpages.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\System.Web.Webpages.Razor.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\System.Web.Helpers.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\bin\System.Web.Mvc.xml
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csprojResolveAssemblyReference.cache
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\obj\Debug\OrnekProje.dll
+C:\Users\dagdelen\Desktop\MasaÜstü son\OrnekProje\OrnekProje\obj\Debug\OrnekProje.pdb
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\ApplicationInsights.config
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\roslyn\csc.exe
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\roslyn\vbc.exe
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\OrnekProje.dll.config
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\OrnekProje.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\OrnekProje.pdb
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\EntityFramework.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\EntityFramework.SqlServer.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.AI.Web.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.ApplicationInsights.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.Owin.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Newtonsoft.Json.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Owin.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\System.Web.Helpers.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\System.Web.Mvc.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\System.Web.Razor.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\System.Web.Webpages.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\System.Web.Webpages.Razor.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\EntityFramework.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\EntityFramework.SqlServer.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.AI.Web.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.ApplicationInsights.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.Owin.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\Newtonsoft.Json.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\System.Web.Razor.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\System.Web.Webpages.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\System.Web.Webpages.Razor.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\System.Web.Helpers.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\bin\System.Web.Mvc.xml
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.AssemblyReference.cache
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.CoreCompileInputs.cache
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.CopyComplete
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\obj\Debug\OrnekProje.dll
+C:\Users\umity\Desktop\OrnekProje111\OrnekProje\OrnekProje\obj\Debug\OrnekProje.pdb
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\ApplicationInsights.config
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\csc.exe
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\vbc.exe
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\OrnekProje.dll.config
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\OrnekProje.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\OrnekProje.pdb
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\EntityFramework.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\EntityFramework.SqlServer.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AI.Web.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.ApplicationInsights.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.Owin.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Newtonsoft.Json.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Owin.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Web.Helpers.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Web.Mvc.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Web.Razor.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Web.Webpages.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Web.Webpages.Razor.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\EntityFramework.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\EntityFramework.SqlServer.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AI.Web.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.ApplicationInsights.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.Owin.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Newtonsoft.Json.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Web.Razor.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Web.Webpages.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Web.Webpages.Razor.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Web.Helpers.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Web.Mvc.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.AssemblyReference.cache
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.CoreCompileInputs.cache
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.CopyComplete
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.pdb
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\csc.exe.config
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\csc.rsp
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\csi.exe
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\csi.exe.config
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\csi.rsp
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\System.Buffers.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\System.Memory.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\vbc.exe.config
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\roslyn\vbc.rsp
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Buffers.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Memory.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Numerics.Vectors.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AI.DependencyCollector.pdb
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AI.PerfCounterCollector.pdb
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AI.Web.pdb
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AI.WindowsServer.pdb
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.ApplicationInsights.pdb
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Buffers.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Memory.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Numerics.Vectors.xml
+C:\Users\umity\Desktop\Visual Studio\OrnekProje\OrnekProje\OrnekProje\bin\System.Runtime.CompilerServices.Unsafe.xml
